@@ -1,4 +1,4 @@
-# first-day-repo
+# 📖 first-day-repo
 04-Stu_Git
 
 ## Acceptance Criteria
@@ -11,6 +11,6 @@
 
 * It's done when I have used command-line commands to create an `index.html` file.
 
-* It's done when I add and commit my changes using Git commands.
+* It's done when I add and commit my changes using Git commands.💡
 
-* It's done when I push the changes to the remote repository. 
+* It's done when I push the changes to the remote repository. 💡
